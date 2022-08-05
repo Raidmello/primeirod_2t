@@ -11,7 +11,7 @@ h1 {
   width: 200px;
   height: 200px;
   right: 0%;
-  bottom: 0%;
+  top: 0%;
 }
 .caixa2 {
   position: absolute;
@@ -21,4 +21,9 @@ h1 {
   height: 200px;
   right: 0%;
   bottom: 0%;
+}
+
+.menuPrincipal {
+  position: relative;
+  background: red;
 }
